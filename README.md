@@ -49,7 +49,8 @@ Gerar um plano de MVP com as principais telas, recursos necessários e um esboç
 Usar tom educativo e linguagem acessível, em português.
 ```
 Interações com o Lovable:
-> Crie um app de finanças pessoais com base no seguinte PRD (Product Requirements Documents) : {PRD}
+> Crie um app de finanças pessoais com base no seguinte PRD (Product Requirements Documents) :{PRD}
+
 > Resultado final no Lovable: https://fin-chat-mate.lovable.app/
 
 Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
