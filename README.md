@@ -53,6 +53,9 @@ Interações com o Lovable:
 
 > Resultado final no Lovable: https://fin-chat-mate.lovable.app/
 
+<img <img width="1898" height="906" alt="image" src="https://github.com/user-attachments/assets/b2bcfa09-4c74-4966-8ac6-f22b0f625eb0" />
+
+
 Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
 
 > [!TIP]
