@@ -1,6 +1,5 @@
 # 💸 App de Finanças Pessoais da Juju!
 
-PRD refinado no Copilot Web: 
 
 # PRD – Aplicativo de Finanças Pessoais Conversacional
 
